@@ -1,0 +1,13 @@
+{
+  "name": "cricket-server",
+  "version": "1.0.0",
+  "description": "This is a Pakistan Cricket Team info server.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Muhammad Ishaq",
+  "license": "ISC"
+}
