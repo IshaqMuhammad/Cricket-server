@@ -1,4 +1,4 @@
-import { pct_Players } from "./player.js";
+import { pct_Players } from "./object.js";
 
 export function getPlayers() {
     return pct_Players;
