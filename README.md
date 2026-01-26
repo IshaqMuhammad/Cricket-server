@@ -99,7 +99,7 @@ export const pct_Players = {
 
 ### 1. Clone or Download the project
 ```cmd
-git clone https://github.com/IshaqMuhammad/Cricket-server
+git clone https://github.com/mishaqdev/Cricket-server
 ```
 
 ### 2. Install Dependencies
